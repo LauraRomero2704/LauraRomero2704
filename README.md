@@ -14,10 +14,10 @@
 
 <h2>📎Acerca de mí </h2>
 
-⭐ Soy una joven de 18 años. <br>
-📲 Apasionada por la tecnología. <br>
-☁️ Creativa, honesta y responsable. <br>
-🪄 Soy eficiente realizando trabajos ya sea en equipo o individualmente.
+⭐  Soy una joven de 18 años. <br>
+📲  Apasionada por la tecnología. <br>
+☁️  Creativa, honesta y responsable. <br>
+🪄  Soy eficiente a la hora de realizar trabajos ya sea en equipo o individualmente.
 
 <br>
 
