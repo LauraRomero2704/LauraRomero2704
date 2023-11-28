@@ -14,7 +14,7 @@
 
 <h2>📎Acerca de mí </h2>
 
-⭐  Soy una joven de 18 años. <br>
+⭐  Soy una joven de 19 años. <br>
 📲  Apasionada por la tecnología. <br>
 ☁️  Creativa, honesta y responsable. <br>
 🪄  Soy eficiente a la hora de realizar trabajos ya sea en equipo o individualmente.
